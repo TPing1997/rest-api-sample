@@ -3,6 +3,23 @@
 - Java version: 1.8.0_181
 - Apache Maven: 3.6.3
 
+# Feature
+- Seperate of concern (Controller, Service, Repository)
+- Hibernate
+- Rest Api
+
+# Future Enhancement
+- crsf token
+- middleware
+- servlet initializer(servlet 3.0)
+- autowired and not autowired style
+- encryption
+- send email
+- junit (unit testing)
+- aop
+- logging
+- scheduler
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
